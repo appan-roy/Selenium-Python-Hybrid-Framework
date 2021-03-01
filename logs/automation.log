@@ -1,0 +1,327 @@
+2021-02-26 20:49:22,480 - root - INFO - ************ Test_Login **************
+2021-02-26 20:49:22,481 - root - INFO - ************ Verifying login page title **************
+2021-02-26 20:49:34,887 - root - INFO - ************ Login page title is verified successfully **************
+2021-02-26 20:49:38,191 - root - INFO - ************ Test_Login **************
+2021-02-26 20:49:38,192 - root - INFO - ************ Verifying login to the application **************
+2021-02-26 20:50:03,917 - root - ERROR - ************ Login test failed **************
+2021-02-26 22:13:01,446 - root - INFO - ************ Test_Login **************
+2021-02-26 22:13:01,447 - root - INFO - ************ Verifying login page title **************
+2021-02-26 22:13:13,544 - root - INFO - ************ Login page title is verified successfully **************
+2021-02-26 22:13:16,842 - root - INFO - ************ Test_Login **************
+2021-02-26 22:13:16,842 - root - INFO - ************ Verifying login to the application **************
+2021-02-26 22:13:46,189 - root - ERROR - ************ Login test failed **************
+2021-02-26 22:25:32,562 - root - INFO - ************ Test_Login **************
+2021-02-26 22:25:32,563 - root - INFO - ************ Verifying login page title **************
+2021-02-26 22:25:34,633 - root - INFO - ************ Test_Login **************
+2021-02-26 22:25:34,634 - root - INFO - ************ Verifying login to the application **************
+2021-02-26 22:30:37,045 - root - INFO - ************ Test_Login **************
+2021-02-26 22:30:37,046 - root - INFO - ************ Verifying login page title **************
+2021-02-26 22:30:44,390 - root - INFO - ************ Login page title is verified successfully **************
+2021-02-26 22:30:44,417 - root - INFO - ************ Test_Login **************
+2021-02-26 22:30:44,418 - root - INFO - ************ Verifying login to the application **************
+2021-02-26 22:33:36,936 - root - INFO - ************ Test_Login **************
+2021-02-26 22:33:36,937 - root - INFO - ************ Verifying login page title **************
+2021-02-26 22:33:49,843 - root - INFO - ************ Login page title is verified successfully **************
+2021-02-26 22:33:49,852 - root - INFO - ************ Test_Login **************
+2021-02-26 22:33:49,852 - root - INFO - ************ Verifying login to the application **************
+2021-02-26 22:35:15,084 - root - INFO - ************ Test_Login **************
+2021-02-26 22:35:15,085 - root - INFO - ************ Verifying login page title **************
+2021-02-26 22:35:15,128 - root - INFO - ************ Test_Login **************
+2021-02-26 22:35:15,129 - root - INFO - ************ Verifying login to the application **************
+2021-02-26 22:35:25,685 - root - INFO - ************ Login page title is verified successfully **************
+2021-02-26 22:35:39,981 - root - ERROR - ************ Login test failed **************
+2021-02-26 22:46:10,422 - root - INFO - ************ Test_Login **************
+2021-02-26 22:46:10,426 - root - INFO - ************ Verifying login page title **************
+2021-02-26 22:46:22,820 - root - INFO - ************ Login page title is verified successfully **************
+2021-02-26 22:46:26,487 - root - INFO - ************ Test_Login **************
+2021-02-26 22:46:26,488 - root - INFO - ************ Verifying login to the application **************
+2021-02-26 22:47:29,932 - root - ERROR - ************ Login test failed **************
+2021-02-26 23:03:59,201 - root - INFO - ************ Test_Login **************
+2021-02-26 23:03:59,202 - root - INFO - ************ Verifying login page title **************
+2021-02-26 23:04:10,608 - root - INFO - ************ Login page title is verified successfully **************
+2021-02-26 23:04:13,965 - root - INFO - ************ Test_Login **************
+2021-02-26 23:04:13,966 - root - INFO - ************ Verifying login to the application **************
+2021-02-26 23:04:43,613 - root - ERROR - ************ Login test failed **************
+2021-02-26 23:12:36,153 - root - INFO - ************ Test_Login **************
+2021-02-26 23:12:36,155 - root - INFO - ************ Verifying login page title **************
+2021-02-26 23:12:48,780 - root - INFO - ************ Login page title is verified successfully **************
+2021-02-26 23:12:52,108 - root - INFO - ************ Test_Login **************
+2021-02-26 23:12:52,108 - root - INFO - ************ Verifying login to the application **************
+2021-02-26 23:13:14,905 - root - ERROR - ************ Login test failed **************
+2021-02-27 09:28:39,573 - root - INFO - ************ Test_Login **************
+2021-02-27 09:28:39,589 - root - INFO - ************ Verifying login page title **************
+2021-02-27 09:28:50,484 - root - INFO - ************ Login page title is verified successfully **************
+2021-02-27 09:28:53,904 - root - INFO - ************ Test_Login **************
+2021-02-27 09:28:53,904 - root - INFO - ************ Verifying login to the application **************
+2021-02-27 09:29:16,792 - root - ERROR - ************ Login test failed **************
+2021-02-27 09:45:26,053 - root - INFO - ************ Test_Login **************
+2021-02-27 09:45:26,055 - root - INFO - ************ Verifying login page title **************
+2021-02-27 09:46:02,158 - root - INFO - ************ Login page title is verified successfully **************
+2021-02-27 09:46:05,386 - root - INFO - ************ Test_Login **************
+2021-02-27 09:46:05,387 - root - INFO - ************ Verifying login to the application **************
+2021-02-27 09:46:40,711 - root - ERROR - ************ Login test failed **************
+2021-02-27 09:49:08,770 - root - INFO - ************ Test_Login **************
+2021-02-27 09:49:08,771 - root - INFO - ************ Verifying login page title **************
+2021-02-27 09:49:20,617 - root - INFO - ************ Login page title is verified successfully **************
+2021-02-27 09:49:23,802 - root - INFO - ************ Test_Login **************
+2021-02-27 09:49:23,803 - root - INFO - ************ Verifying login to the application **************
+2021-02-27 09:49:50,159 - root - ERROR - ************ Login test failed **************
+2021-02-27 15:09:45,739 - root - INFO - ************ Test_Login_DDT Started**************
+2021-02-27 15:09:45,740 - root - INFO - ************ Verifying login to the application using DDT **************
+2021-02-27 15:10:11,895 - root - INFO - *** Passed ***
+2021-02-27 15:10:22,025 - root - INFO - *** Passed ***
+2021-02-27 15:13:38,741 - root - INFO - ************ Test_Login_DDT Started**************
+2021-02-27 15:13:38,742 - root - INFO - ************ Verifying login to the application using DDT **************
+2021-02-27 15:15:55,046 - root - INFO - ************ Test_Login_DDT Started**************
+2021-02-27 15:15:55,047 - root - INFO - ************ Verifying login to the application using DDT **************
+2021-02-27 15:17:15,053 - root - INFO - ************ Test_Login_DDT Started**************
+2021-02-27 15:17:15,054 - root - INFO - ************ Verifying login to the application using DDT **************
+2021-02-27 15:17:41,504 - root - INFO - *** Passed ***
+2021-02-27 15:17:51,681 - root - INFO - *** Passed ***
+2021-02-27 15:20:30,453 - root - INFO - ************ Test_Login_DDT Started**************
+2021-02-27 15:20:30,454 - root - INFO - ************ Verifying login to the application using DDT **************
+2021-02-27 15:21:02,828 - root - INFO - *** Passed ***
+2021-02-27 15:21:13,669 - root - INFO - *** Passed ***
+2021-02-27 15:21:20,706 - root - INFO - *** Passed ***
+2021-02-27 15:23:01,213 - root - INFO - ************ Test_Login_DDT Started**************
+2021-02-27 15:23:01,214 - root - INFO - ************ Verifying login to the application using DDT **************
+2021-02-27 15:23:27,567 - root - INFO - *** Passed ***
+2021-02-27 15:23:38,034 - root - INFO - *** Passed ***
+2021-02-27 15:23:45,063 - root - INFO - *** Passed ***
+2021-02-27 15:23:45,064 - root - INFO - ************ Login Test DDT Passed **************
+2021-02-27 15:23:45,220 - root - INFO - ************ Test_Login_DDT Completed **************
+2021-02-27 21:11:55,488 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 21:12:22,607 - root - ERROR - ************ Login failed **************
+2021-02-27 21:13:37,275 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 21:14:02,902 - root - ERROR - ************ Login failed **************
+2021-02-27 21:15:16,502 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 21:15:45,126 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 21:16:58,941 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 21:17:30,008 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 21:19:20,956 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 21:19:40,777 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 21:22:26,240 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 21:22:48,816 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 21:23:56,537 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 21:24:23,604 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 21:25:15,969 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 21:25:46,045 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 21:26:07,154 - root - INFO - ************ Saving Customer Info **************
+2021-02-27 21:26:07,155 - root - INFO - ************ Starting Add Customer Validation **************
+2021-02-27 21:26:07,384 - root - INFO - ************ Add Customer Test Passed **************
+2021-02-27 21:26:10,728 - root - INFO - ************ Add Customer Test Completed **************
+2021-02-27 21:53:49,012 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 21:54:10,403 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 21:55:53,279 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 21:56:14,237 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 21:56:32,724 - root - INFO - ************ Saving Customer Info **************
+2021-02-27 21:56:32,725 - root - INFO - ************ Starting Add Customer Validation **************
+2021-02-27 21:56:32,840 - root - INFO - ************ Add Customer Test Passed **************
+2021-02-27 21:56:35,299 - root - INFO - ************ Add Customer Test Completed **************
+2021-02-27 22:02:26,903 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 22:02:50,278 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 22:03:09,447 - root - INFO - ************ Saving Customer Info **************
+2021-02-27 22:03:09,448 - root - INFO - ************ Starting Add Customer Validation **************
+2021-02-27 22:03:09,561 - root - INFO - ************ Add Customer Test Passed **************
+2021-02-27 22:03:14,070 - root - INFO - ************ Add Customer Test Completed **************
+2021-02-27 22:25:41,873 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 22:26:11,800 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 22:26:32,919 - root - INFO - ************ Saving Customer Info **************
+2021-02-27 22:26:32,920 - root - INFO - ************ Starting Add Customer Validation **************
+2021-02-27 22:26:33,049 - root - INFO - ************ Add Customer Test Passed **************
+2021-02-27 22:26:35,380 - root - INFO - ************ Add Customer Test Completed **************
+2021-02-27 22:29:01,251 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 22:29:22,570 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 22:29:43,290 - root - INFO - ************ Saving Customer Info **************
+2021-02-27 22:29:43,291 - root - INFO - ************ Starting Add Customer Validation **************
+2021-02-27 22:29:43,401 - root - INFO - ************ Add Customer Test Passed **************
+2021-02-27 22:29:46,772 - root - INFO - ************ Add Customer Test Completed **************
+2021-02-27 22:32:23,053 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 22:32:46,611 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 22:34:45,606 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 22:35:06,779 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 22:36:53,855 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 22:37:20,216 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 22:41:22,585 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 22:41:48,864 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 22:44:43,870 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 22:45:05,790 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 22:50:45,646 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 22:51:10,679 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 22:54:09,449 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 22:54:30,169 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 22:57:20,326 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 22:57:43,259 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 23:15:18,658 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 23:15:43,977 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 23:17:34,791 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 23:17:54,994 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 23:20:18,110 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 23:20:39,181 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 23:21:35,410 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 23:21:59,182 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 23:32:17,996 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 23:32:44,665 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 23:33:07,730 - root - INFO - ************ Saving Customer Info **************
+2021-02-27 23:33:07,731 - root - INFO - ************ Starting Add Customer Validation **************
+2021-02-27 23:35:08,544 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 23:35:35,264 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 23:37:06,895 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 23:37:32,960 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 23:39:03,158 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 23:39:24,204 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 23:39:51,063 - root - INFO - ************ Saving Customer Info **************
+2021-02-27 23:39:51,064 - root - INFO - ************ Starting Add Customer Validation **************
+2021-02-27 23:39:51,214 - root - INFO - ************ Add Customer Test Passed **************
+2021-02-27 23:39:53,683 - root - INFO - ************ Add Customer Test Completed **************
+2021-02-27 23:50:31,917 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 23:50:54,064 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 23:51:18,970 - root - INFO - ************ Saving Customer Info **************
+2021-02-27 23:51:18,971 - root - INFO - ************ Starting Add Customer Validation **************
+2021-02-27 23:51:19,109 - root - INFO - ************ Add Customer Test Passed **************
+2021-02-27 23:51:21,439 - root - INFO - ************ Add Customer Test Completed **************
+2021-02-27 23:56:38,645 - root - INFO - ************ Test_Add_Customer **************
+2021-02-27 23:57:09,011 - root - INFO - ************ Starting Add Customer Test **************
+2021-02-27 23:57:31,687 - root - INFO - ************ Saving Customer Info **************
+2021-02-27 23:57:31,688 - root - INFO - ************ Starting Add Customer Validation **************
+2021-02-27 23:57:31,812 - root - INFO - ************ Add Customer Test Passed **************
+2021-02-27 23:57:34,223 - root - INFO - ************ Add Customer Test Completed **************
+2021-02-28 00:16:48,184 - root - INFO - ************ Test_Login **************
+2021-02-28 00:16:48,185 - root - INFO - ************ Verifying login to the application **************
+2021-02-28 00:17:12,535 - root - ERROR - ************ Login test failed **************
+2021-02-28 00:18:12,359 - root - INFO - ************ Test_Login **************
+2021-02-28 00:18:12,360 - root - INFO - ************ Verifying login to the application **************
+2021-02-28 00:18:36,839 - root - INFO - ************ Login test passed **************
+2021-02-28 00:19:10,727 - root - INFO - ************ Test_Login **************
+2021-02-28 00:19:10,728 - root - INFO - ************ Verifying login page title **************
+2021-02-28 00:19:19,645 - root - INFO - ************ Login page title is verified successfully **************
+2021-02-28 00:51:45,696 - root - INFO - ************ Test_Search_Customer **************
+2021-02-28 00:52:12,053 - root - INFO - ************ Starting Search Customer Test **************
+2021-02-28 00:52:23,268 - root - INFO - ************ Searching Customer **************
+2021-02-28 00:52:28,477 - root - INFO - ************ Search Customer Test Passed **************
+2021-02-28 00:52:30,874 - root - INFO - ************ Search Customer Test Completed **************
+2021-02-28 00:55:41,549 - root - INFO - ************ Test_Search_Customer_By_Name **************
+2021-02-28 00:56:04,482 - root - INFO - ************ Starting Search Customer Test **************
+2021-02-28 00:56:17,407 - root - INFO - ************ Searching Customer **************
+2021-02-28 00:56:22,619 - root - INFO - ************ Search Customer Test Passed **************
+2021-02-28 00:56:24,962 - root - INFO - ************ Search Customer Test Completed **************
+2021-03-01 11:34:40,668 - root - INFO - ************ Test_Login **************
+2021-03-01 11:34:40,668 - root - INFO - ************ Test_Login **************
+2021-03-01 11:34:40,668 - root - INFO - ************ Test_Login **************
+2021-03-01 11:34:40,668 - root - INFO - ************ Test_Login **************
+2021-03-01 11:34:40,668 - root - INFO - ************ Test_Login **************
+2021-03-01 11:34:40,668 - root - INFO - ************ Test_Login **************
+2021-03-01 11:34:40,690 - root - INFO - ************ Verifying login page title **************
+2021-03-01 11:34:40,690 - root - INFO - ************ Verifying login page title **************
+2021-03-01 11:34:40,690 - root - INFO - ************ Verifying login page title **************
+2021-03-01 11:34:40,690 - root - INFO - ************ Verifying login page title **************
+2021-03-01 11:34:40,690 - root - INFO - ************ Verifying login page title **************
+2021-03-01 11:34:40,690 - root - INFO - ************ Verifying login page title **************
+2021-03-01 11:34:45,005 - root - INFO - ************ Login page title is verified successfully **************
+2021-03-01 11:34:45,005 - root - INFO - ************ Login page title is verified successfully **************
+2021-03-01 11:34:45,005 - root - INFO - ************ Login page title is verified successfully **************
+2021-03-01 11:34:45,005 - root - INFO - ************ Login page title is verified successfully **************
+2021-03-01 11:34:45,005 - root - INFO - ************ Login page title is verified successfully **************
+2021-03-01 11:34:45,005 - root - INFO - ************ Login page title is verified successfully **************
+2021-03-01 11:35:28,008 - root - INFO - ************ Test_Search_Customer_By_Name **************
+2021-03-01 11:35:28,008 - root - INFO - ************ Test_Search_Customer_By_Name **************
+2021-03-01 11:35:28,008 - root - INFO - ************ Test_Search_Customer_By_Name **************
+2021-03-01 11:35:28,008 - root - INFO - ************ Test_Search_Customer_By_Name **************
+2021-03-01 11:35:28,008 - root - INFO - ************ Test_Search_Customer_By_Name **************
+2021-03-01 11:35:28,008 - root - INFO - ************ Test_Search_Customer_By_Name **************
+2021-03-01 11:35:45,014 - root - INFO - ************ Starting Search Customer Test **************
+2021-03-01 11:35:45,014 - root - INFO - ************ Starting Search Customer Test **************
+2021-03-01 11:35:45,014 - root - INFO - ************ Starting Search Customer Test **************
+2021-03-01 11:35:45,014 - root - INFO - ************ Starting Search Customer Test **************
+2021-03-01 11:35:45,014 - root - INFO - ************ Starting Search Customer Test **************
+2021-03-01 11:35:45,014 - root - INFO - ************ Starting Search Customer Test **************
+2021-03-01 11:35:53,848 - root - INFO - ************ Searching Customer **************
+2021-03-01 11:35:53,848 - root - INFO - ************ Searching Customer **************
+2021-03-01 11:35:53,848 - root - INFO - ************ Searching Customer **************
+2021-03-01 11:35:53,848 - root - INFO - ************ Searching Customer **************
+2021-03-01 11:35:53,848 - root - INFO - ************ Searching Customer **************
+2021-03-01 11:35:53,848 - root - INFO - ************ Searching Customer **************
+2021-03-01 11:35:59,027 - root - INFO - ************ Search Customer Test Passed **************
+2021-03-01 11:35:59,027 - root - INFO - ************ Search Customer Test Passed **************
+2021-03-01 11:35:59,027 - root - INFO - ************ Search Customer Test Passed **************
+2021-03-01 11:35:59,027 - root - INFO - ************ Search Customer Test Passed **************
+2021-03-01 11:35:59,027 - root - INFO - ************ Search Customer Test Passed **************
+2021-03-01 11:35:59,027 - root - INFO - ************ Search Customer Test Passed **************
+2021-03-01 11:36:01,496 - root - INFO - ************ Search Customer Test Completed **************
+2021-03-01 11:36:01,496 - root - INFO - ************ Search Customer Test Completed **************
+2021-03-01 11:36:01,496 - root - INFO - ************ Search Customer Test Completed **************
+2021-03-01 11:36:01,496 - root - INFO - ************ Search Customer Test Completed **************
+2021-03-01 11:36:01,496 - root - INFO - ************ Search Customer Test Completed **************
+2021-03-01 11:36:01,496 - root - INFO - ************ Search Customer Test Completed **************
+2021-03-01 13:23:41,261 - root - INFO - ************ Test_Login **************
+2021-03-01 13:23:41,261 - root - INFO - ************ Test_Login **************
+2021-03-01 13:23:41,261 - root - INFO - ************ Test_Login **************
+2021-03-01 13:23:41,261 - root - INFO - ************ Test_Login **************
+2021-03-01 13:23:41,261 - root - INFO - ************ Test_Login **************
+2021-03-01 13:23:41,261 - root - INFO - ************ Test_Login **************
+2021-03-01 13:23:41,264 - root - INFO - ************ Verifying login to the application **************
+2021-03-01 13:23:41,264 - root - INFO - ************ Verifying login to the application **************
+2021-03-01 13:23:41,264 - root - INFO - ************ Verifying login to the application **************
+2021-03-01 13:23:41,264 - root - INFO - ************ Verifying login to the application **************
+2021-03-01 13:23:41,264 - root - INFO - ************ Verifying login to the application **************
+2021-03-01 13:23:41,264 - root - INFO - ************ Verifying login to the application **************
+2021-03-01 13:23:58,454 - root - INFO - ************ Login test passed **************
+2021-03-01 13:23:58,454 - root - INFO - ************ Login test passed **************
+2021-03-01 13:23:58,454 - root - INFO - ************ Login test passed **************
+2021-03-01 13:23:58,454 - root - INFO - ************ Login test passed **************
+2021-03-01 13:23:58,454 - root - INFO - ************ Login test passed **************
+2021-03-01 13:23:58,454 - root - INFO - ************ Login test passed **************
+2021-03-01 13:24:03,001 - root - INFO - ************ Test_Login **************
+2021-03-01 13:24:03,001 - root - INFO - ************ Test_Login **************
+2021-03-01 13:24:03,001 - root - INFO - ************ Test_Login **************
+2021-03-01 13:24:03,001 - root - INFO - ************ Test_Login **************
+2021-03-01 13:24:03,001 - root - INFO - ************ Test_Login **************
+2021-03-01 13:24:03,001 - root - INFO - ************ Test_Login **************
+2021-03-01 13:24:03,002 - root - INFO - ************ Verifying login page title **************
+2021-03-01 13:24:03,002 - root - INFO - ************ Verifying login page title **************
+2021-03-01 13:24:03,002 - root - INFO - ************ Verifying login page title **************
+2021-03-01 13:24:03,002 - root - INFO - ************ Verifying login page title **************
+2021-03-01 13:24:03,002 - root - INFO - ************ Verifying login page title **************
+2021-03-01 13:24:03,002 - root - INFO - ************ Verifying login page title **************
+2021-03-01 13:24:08,137 - root - INFO - ************ Login page title is verified successfully **************
+2021-03-01 13:24:08,137 - root - INFO - ************ Login page title is verified successfully **************
+2021-03-01 13:24:08,137 - root - INFO - ************ Login page title is verified successfully **************
+2021-03-01 13:24:08,137 - root - INFO - ************ Login page title is verified successfully **************
+2021-03-01 13:24:08,137 - root - INFO - ************ Login page title is verified successfully **************
+2021-03-01 13:24:08,137 - root - INFO - ************ Login page title is verified successfully **************
+2021-03-01 13:27:19,518 - root - INFO - ************ Test_Login **************
+2021-03-01 13:27:19,518 - root - INFO - ************ Test_Login **************
+2021-03-01 13:27:19,518 - root - INFO - ************ Test_Login **************
+2021-03-01 13:27:19,518 - root - INFO - ************ Test_Login **************
+2021-03-01 13:27:19,518 - root - INFO - ************ Test_Login **************
+2021-03-01 13:27:19,518 - root - INFO - ************ Test_Login **************
+2021-03-01 13:27:19,520 - root - INFO - ************ Verifying login to the application **************
+2021-03-01 13:27:19,520 - root - INFO - ************ Verifying login to the application **************
+2021-03-01 13:27:19,520 - root - INFO - ************ Verifying login to the application **************
+2021-03-01 13:27:19,520 - root - INFO - ************ Verifying login to the application **************
+2021-03-01 13:27:19,520 - root - INFO - ************ Verifying login to the application **************
+2021-03-01 13:27:19,520 - root - INFO - ************ Verifying login to the application **************
+2021-03-01 13:27:33,691 - root - INFO - ************ Login test passed **************
+2021-03-01 13:27:33,691 - root - INFO - ************ Login test passed **************
+2021-03-01 13:27:33,691 - root - INFO - ************ Login test passed **************
+2021-03-01 13:27:33,691 - root - INFO - ************ Login test passed **************
+2021-03-01 13:27:33,691 - root - INFO - ************ Login test passed **************
+2021-03-01 13:27:33,691 - root - INFO - ************ Login test passed **************
+2021-03-01 13:27:36,697 - root - INFO - ************ Test_Login **************
+2021-03-01 13:27:36,697 - root - INFO - ************ Test_Login **************
+2021-03-01 13:27:36,697 - root - INFO - ************ Test_Login **************
+2021-03-01 13:27:36,697 - root - INFO - ************ Test_Login **************
+2021-03-01 13:27:36,697 - root - INFO - ************ Test_Login **************
+2021-03-01 13:27:36,697 - root - INFO - ************ Test_Login **************
+2021-03-01 13:27:36,699 - root - INFO - ************ Verifying login page title **************
+2021-03-01 13:27:36,699 - root - INFO - ************ Verifying login page title **************
+2021-03-01 13:27:36,699 - root - INFO - ************ Verifying login page title **************
+2021-03-01 13:27:36,699 - root - INFO - ************ Verifying login page title **************
+2021-03-01 13:27:36,699 - root - INFO - ************ Verifying login page title **************
+2021-03-01 13:27:36,699 - root - INFO - ************ Verifying login page title **************
+2021-03-01 13:27:40,910 - root - INFO - ************ Login page title is verified successfully **************
+2021-03-01 13:27:40,910 - root - INFO - ************ Login page title is verified successfully **************
+2021-03-01 13:27:40,910 - root - INFO - ************ Login page title is verified successfully **************
+2021-03-01 13:27:40,910 - root - INFO - ************ Login page title is verified successfully **************
+2021-03-01 13:27:40,910 - root - INFO - ************ Login page title is verified successfully **************
+2021-03-01 13:27:40,910 - root - INFO - ************ Login page title is verified successfully **************
